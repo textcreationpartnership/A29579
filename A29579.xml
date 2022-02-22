@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Speech made by the Right Honorable Iohn, Earl of Bristoll, in the high court of Parliament, May 20. 1642 concerning an accommodation : whereunto is added, the copy of a letter sent from the Right Honourable, the Lord Paget, Lord Lieutenant of the county of Buckingham, to the Right Honourable the Earl of Holland, shewing the great readinesse of that county, to obey the ordinance of the Parliament touching the militia.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29579</idno>
+            <idno type="STC">Wing B4796</idno>
+            <idno type="STC">ESTC R1282</idno>
+            <idno type="EEBO-CITATION">12885935</idno>
+            <idno type="OCLC">ocm 12885935</idno>
+            <idno type="VID">95025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 909:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Speech made by the Right Honorable Iohn, Earl of Bristoll, in the high court of Parliament, May 20. 1642 concerning an accommodation : whereunto is added, the copy of a letter sent from the Right Honourable, the Lord Paget, Lord Lieutenant of the county of Buckingham, to the Right Honourable the Earl of Holland, shewing the great readinesse of that county, to obey the ordinance of the Parliament touching the militia.</title>
+                  <author>Bristol, John Digby, Earl of, 1580-1654.</author>
+                  <author>Paget, William Paget, Baron, 1609-1678.</author>
+                  <author>Holland, Henry Rich, Earl of, 1590-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95025:1" rendition="simple:additions"/>
+            <p>A SPEECH Made by the RIGHT HONORABLE, IOHN Earl of <hi>BRISTOLL,</hi> IN THE HIGH COVRT OF PARLIAMENT; <hi>May</hi> 20. 1642.</p>
+            <p>Concerning an ACCOMMODATION.</p>
+            <p>
+               <hi>Whereunto is added,</hi> THE COPY OF A LETTER Sent from the Right Honorable, the Lord <hi>PAGET,</hi> Lord Lieutenant of the County of <hi>Buckingham,</hi> to the Right Honorable the Earl of <hi>Holland;</hi> ſhewing the great readineſſe of that County, to obey the Ordinance of the Parlia<g ref="char:EOLhyphen"/>ment touching the MILITIA.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. G.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:95025:2"/>
+            <pb n="3" facs="tcp:95025:2" rendition="simple:additions"/>
+            <head>A SPEECH made by the Right Honorable <hi>IOHN</hi> Earl of <hi>Briſtoll,</hi> in the high Court of Parliament, <hi>May 20. 1642.</hi>
+            </head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>I Have ſpoken ſo often upon the ſubject of Accommodation, with ſo little acceptance, and with ſo ill ſucceſſe, that it was in my intention not to have made any further aſſay in this kind; but my zeale to the peace and happineſſe of this Kingdom, and my apprehenſions of the neere approaching of our unſpeakable miſeries and calamities, ſuffer me not to be maſter of mine own reſolutions.</p>
+            <p>Certainly, this Kingdome hath at all times many advantages over the other Monarchies of <hi>Europe.</hi> As, of Scituation, of plenty, of rich commo<g ref="char:EOLhyphen"/>dities, of Power both by Sea and Land: But more particularly at this time, when all our neigbouring States are, by their ſeverall intereſts, ſo involved in warre, and with ſuch equalitie of power, that there is not much likely<g ref="char:EOLhyphen"/>hood of their maſtering one another, nor of having their differences eaſily compounded. And whereby, we being only admitted to all trades, and to all places: Wealth and Plenty (which ever follow, where trade flouriſheth) are in a manner caſt upon us.</p>
+            <p>I ſhall not trouble your Lordſhips by putting you in mind of the great and noble undertakings of your Anceſtors: Nor ſhall I paſſe higher then the times within mine own remembrance.</p>
+            <p>Queen <hi>Elizabeth</hi> was a Princeſſe diſadvantaged by her Sex, by her age, and chiefly, by her want of Iſſue: yet if we ſhall conſider the great effects which were wrought upon moſt of the States of Chriſtendome by this Na<g ref="char:EOLhyphen"/>tion under her prudent government; (The growth of the Monarchy of <hi>Spain</hi> chiefly by her impeached; The United Provinces by her protected; The <hi>French</hi> in their greateſt miſeries relieved; Moſt of the Princes of <hi>Germany</hi> kept in high reſpect and reverence towards her and this Kingdome, and the peace and tranquilitie wherein this Kingdome flouriſhed; and which hath bin continued down unto us by the peaceable government of King <hi>Iames</hi> of bleſſed memory, and of his now Majeſtie, untill theſe late unhappy interrup<g ref="char:EOLhyphen"/>tions) We cannot but judge this Nation equally capable, with any other, of Honour, Happineſſe, and plentie.</p>
+            <p>Now, if in ſtead of this happy condition, in which we have been, and might be, upon a ſober and impartiall inquirie we ſhall find our ſelves to have bin for ſome few yeares laſt paſt involved in ſo many troubles and diſ<g ref="char:EOLhyphen"/>tractions, and at the preſent to be reduced to the very brink of miſeries and calamities; It is high time for us to conſider by what means we have been brought into them, and by what means it is moſt probable we may be brought out of them.</p>
+            <p>
+               <pb n="4" facs="tcp:95025:3" rendition="simple:additions"/>This Kingdome never injoyed ſo univerſall a peace, neither hath it any vi<g ref="char:EOLhyphen"/>ſible enemy in the world either Infidell or Chriſtian: Our Enemies are only of our own houſe, ſuch as our own diſſentions, jealouſies, &amp; diſtractions, have raiſed up: And certainly where they are found (eſpecialy betwixt a King and his people) no other cauſe of the unhappineſſe and miſery of a State need to be ſought after: For civill diſcord is a plentifull Sourſe, from whence all miſeries and miſchiefes flow into a Kingdome.</p>
+            <p>The Scripture telleth us of the ſtrength of a little City united, and of the inſtabilitie of a Kingdome divided within it ſelfe; So that upon a pruden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inquirie, we may aſſigne our own jelouſies, and diſcords, for the chief cauſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our paſt and preſent troubles, and of our future feares.</p>
+            <p>It muſt be confeſſed, that by the counſell and conduct of evil Miniſters, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Subject had cauſe to thinke their juſt liberties invaded; And from thence have our former diſtempers growne: For it is in the body politique of a Monarchie, as in another Naturall body, the health whereof is defined to be, <hi>Partium Corporis aequa temperies,</hi> an equall temper of the parts: So likewiſe a State is well in health and well diſpoſed, when Soveraigne powers, and common right, are equally ballanced, and kept in an even temper by juſt and equitable rules.</p>
+            <p>And truly, <hi>(My Lords)</hi> by the goodneſſe of his Majeſtie, and by the pru<g ref="char:EOLhyphen"/>dent endeavour of the Parliament, this State is almoſt reduced to that equall, and even temper, and our ſickneſſe is rather continued out of fancie and con<g ref="char:EOLhyphen"/>ceipt (I meane feares and jealouſies) then out of any reall diſtemper or defect.</p>
+            <p>I well remember, That before the begining of this Parliament, ſome Noble Lords preſented a Petition unto the King, and in that Petition did ſet down all or moſt of the grievances and diſtempers of the Kingdome, which occurred to them. To theſe (as I concieve) the Parliament have procured from his Majeſtie ſuch redreſſes as are to their good ſatisfaction.</p>
+            <p>Many other things for the eaſe, ſecurity, and comfort of the ſubject, have been, by their great induſtrie, found and propounded, and by his Majeſties goodneſſe condeſcended unto. And now we are come ſo neere the happi<g ref="char:EOLhyphen"/>neſſe of being the moſt free and moſt ſetled Nation in the Chriſtian world; Our dangers and miſeries will grow greater and neerer unto us every day th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n other if they be not prevented.</p>
+            <p>The King on his part offereth to concurre with us in the ſetling of all the liberties and immunities either for the proprietie of our goods, or libertie of our perſons, which we have received from our aunceſtors, or which him<g ref="char:EOLhyphen"/>ſelfe hath granted unto us; And what ſhall yet remain for the good and comfort of his Subiects, He is willing to hearken to our juſt and reaſon<g ref="char:EOLhyphen"/>able proportions: And for the eſtabliſhing of the true Proteſtant Religion,
+<pb n="5" facs="tcp:95025:3" rendition="simple:additions"/>
+he wooes us to it: And the wiſdom and induſtrie of the Parliament hath now put it in a hopefull way.</p>
+            <p>The rule of this government, he profeſſeth, ſhall be, The Laws of the Kingdom, And for the comforting and ſecuring of us he offereth a more large and more generall pardon then hath been granted by any of his Pre<g ref="char:EOLhyphen"/>deceſſors.</p>
+            <p>And truly <hi>(My Lords)</hi> This is all, that ever was or can be pretended unto by us.</p>
+            <p>We on the other ſide make profeſſion, That we intend to make his Ma<g ref="char:EOLhyphen"/>jeſtie a glorious King, To indeavour to ſupport his dignitie, and to pay unto him that duty and Obedience, which, by our Allegeance, ſeverall Oathes, and late Proteſtation we owe unto him, and to maintain all his juſt Regali<g ref="char:EOLhyphen"/>ties and Prerogatives, which I conceive to be as much as his Majeſtie will expect from us.</p>
+            <p>So that <hi>(My Lords)</hi> we (being both thus reciprocally agreed of that which in the generall would make both the King and people happy) ſhall be moſt unfortunate, if we ſhall not bring both inclinations and indeavours ſo to propound and ſetle particulars, as both King and people may know what will give them mutuall ſatisfaction, which certainly muſt be the firſt ſtepp to the ſetling of a right underſtanding betwixt them. And in this I ſhould not concieve any great difficulty, if it were once put into a way of preparation. But the greateſt difficultie may ſeeme to be, how that which may be ſetled and agreed upon may be ſecured. This is, commonly, the laſt point in Treaties betwixt Princes, and of the greateſt niceneſſe, But much more betixt a King and his Subjects, where that confidence &amp; belief which ſhould be betwixt them, is once loe: And to ſpeaee cleerly, I feare, that this may be our caſe, and herein may conſiſt the chiefeſt difficulty of accommo<g ref="char:EOLhyphen"/>dation: For it is much eaſier to compoſe differences ariſing from reaſon (yea even from wrongs, then it is to ſatisfy jealouſies, which ariſing out of the diffidence &amp; diſtruſt, grow and are varied upon every occaſſion.</p>
+            <p>But <hi>(My Lords)</hi> if there be no indeavours to alay and remove them, they will every day increaſe and gather ſtrength; Nay they are already grown to that height, and the mutuall replies to thoſe direct termes of oppoſition, That if we make not a preſent ſtay, it is to be feared, it will ſpeedily paſſe further then verball conteſtations.</p>
+            <p>I obſerve in ſome of His Majeſties Anſwers, a Civill War ſpoken of. I confeſſe it is a word of horror to me who have been an eye-witneſſe of thoſe unexpreſſible calamities, that (in a ſhort time) the moſt plentifull, and flou<g ref="char:EOLhyphen"/>riſhing Countries of Europe have been brought unto by an inteſtine warre,</p>
+            <p>I further obſerve, that His Majeſtie proteſteth againſt the miſeries that may enſue by a Warre, and that he is cleere of them. It is true, what a pro<g ref="char:EOLhyphen"/>teſtation
+<pb n="6" facs="tcp:95025:4" rendition="simple:additions"/>
+of that kinde is no actuall denouncing of Warre, but it is the very next degree to it, <hi>Vltimo admonitio,</hi> as the Civilians term it, The laſt admonition; So that we are upon the very brink of our miſeries; It is better keeping out of them, then getting out of them: And in a State, the Wiſe<g ref="char:EOLhyphen"/>dome of Prevention, is infinitely beyond the Wiſedome of Remedies. If for the ſins of this Nation, theſe miſunderſtandings ſhould produce the leaſt Act of Hoſtility, it is not almoſt to be believed, how impoſſible it were to put any ſtay to our miſeries: For a Civill Warre admits of none of thoſe Conditions, or Quarter, by which cruelty and bloud are amongſt other ene<g ref="char:EOLhyphen"/>mies kept from extremitiss; Nay, if it ſhould but ſo happen (which God of his goodneſſe avert) That mutually forces, and Armies ſhould be raiſed, Jealouſies and Feats would be ſo much encreaſed thereby, that any Accom<g ref="char:EOLhyphen"/>modation would be rendered full of difficulty and length; and the very charge of maintaining them, (whilſt firſt a ceſſation of Arms, and then a ge<g ref="char:EOLhyphen"/>nerall Accommodation were in treating) the Wealth of the Kingdom would be conſumed.</p>
+            <p>And of this we had lately a coſtly example, for in thoſe unhappy troubles betwixt us and <hi>Scotland,</hi> after there was a ſtop made to any further Acts of Hoſtility, and a deſire of peace expreſſed on both ſides, Commiſſioner no<g ref="char:EOLhyphen"/>minated, and all the Articles propounded, yet the keeping of the Armies to<g ref="char:EOLhyphen"/>gether for our ſecurities (whilſt the ceſſation at <hi>Rippon,</hi> and the peace at <hi>London</hi> were in treating) coſt this Kingdome not much leſſe then a Million of pounds. And if two Armies be once on foot here in <hi>England,</hi> either a ſudden encounter muſt deſtroy one of them, or the keeping of them both on foot muſt deſtroy the Kingdom.</p>
+            <p>I hope therefore we ſhall make it our endeavour by moderation, and calmneſſe, yet to put a ſtay to our ſo neer approaching miſeries, and that we ſhall hearken to the wiſe advice of our Brethren of <hi>Scotland,</hi> in their late Anſwer to the King and Parliament, wherein they earneſtly intreat us, That all means may be forborn which may make the breach wider, and the wound deeper; And that no place be given to the evill ſpirit of Diviſion, which at ſuch times worketh unceſſantly, and reſteth not: But that the faireſt, the moſt Chriſtian and compendious way may be taken by ſo wiſe a King and Parliament, as may (againſt all malice and oppoſition) make his Majeſty and his Poſterity more glorious, and his Kingdome more happy then ever. And in another place they ſay, That ſince the Parliament have thought meet to draw the practice of the Parliament of <hi>Scotland</hi> into ex<g ref="char:EOLhyphen"/>ample, in point of Declaration: They are confident that the affection of the Parliament will lead them alſo to the practice of that Kingdom in com<g ref="char:EOLhyphen"/>poſing the unhappy differences betwixt his Majeſty and them, and (ſo farre as may conſiſt with their Religion, Liberties, and Laws) in giving his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:95025:4" rendition="simple:additions"/>Certainly (My Lords) this is wiſe and brotherly advice; And I doubt not but we are all deſirous to follow it. We muſt not then ſtill dwell upon gene<g ref="char:EOLhyphen"/>rals (For generals produce nothing) But we muſt put this Buſineſſe into a certain way, whereby particulars may be deſcended unto; And the way that I ſhall offer with all humility is, That there may be a ſelect Committee of choyce perſons of both Houſes, who may, in the firſt place, truly ſtate and ſet down all things in difference betwixt the King and the Subject, with the moſt probable wayes of reconciling them. Secondly, to deſcend unto the particulars, which may be expected by each from other, either in point of our ſupporting of him, or his relieving of us. And laſtly, how all theſe Conditions, being agreed upon, may be ſo ſecured, as may ſtand with the honour of His Majeſtie; and the ſatisfaction of the Subject.</p>
+            <p>When ſuch a Committee ſhall have drawn up the heads of the Propo<g ref="char:EOLhyphen"/>ſitions, and the way of ſecuring them, they may be preſented unto the Houſes, and ſo offered unto His Majeſtie by ſuch a way as the Parliament ſhall judge moſt probable to produce an Accommodation.</p>
+            <p>(My Lord) What have I yet ſaid unto you, hath been chiefly grounded upon the ap<g ref="char:EOLhyphen"/>prehenſions and fears of our future dangers. I ſhall ſay ſomething of the unhappineſſe of our preſent eſtate, which chiefly ſtandeth in as much need of relief and remedy, as our fears do of prevention; for, although the King and people were fully united, and that all men that now draw ſeverall wayes, ſhould unanimouſly ſet their hand to the work, yet they would find it no eaſie task to reſtore this Kingdom to a proſperous and comfortable condition: If we take into our conſideration the deplorable eſtate of Ire<g ref="char:EOLhyphen"/>land, likely to drain this kingdom of men and treaſure; If we conſider the debts and neceſſity of the Crown, the ingagements of the Kingdom, the great and un<g ref="char:EOLhyphen"/>uſuall contributions of the people, the which, although they may not be ſo much to uſuall contributions of the people, the which, although they may not be ſo much to their diſcontent (for that they have been legally raiſed) yet the burthen hath not been much eaſed: Let us likewiſe conſider the diſtractions (I may almoſt call them confuſions in point of Religion) which of all other diſtempers, are moſt dangerous and deſtructive to the peace of a State.</p>
+            <p>Beſides theſe publick calamities, let every particular man conſider the diſtracted and diſcomfortable eſtate of his own condition; for mine own part, I moſt ingeniouſly pro<g ref="char:EOLhyphen"/>feſſe unto your Lordſhips, That I cannot finde out, (under the different Commands of the King and the Parliament) any ſuch courſe of caution and warineſſe, by which I can promiſe to my ſelf ſecurity or ſafety. I could give your Lordſhips many inſtances of the inconſiſtancie and impoſſibility of obeying theſe commands: But I ſhall trouble you with onely one or two.</p>
+            <p>The Ordinance of Parliament (now in ſo great agitation) commandeth all perſons in Authority, to put in execution, and all others to obey it according to the Funda<g ref="char:EOLhyphen"/>mentall Laws, of the Land; The king declareth it to be contrary to the Fundamentall Laws, againſt the Subject, and Rights of Parliament; And commandeth all his Sub<g ref="char:EOLhyphen"/>iects of what degree ſoever upon their allegiance not to obey the ſaid Ordinance, as they will anſwer the contrary at their perils.</p>
+            <p>So likewiſe in point of the King, commanding the attendance of divers of us upon His perſon whereunto We are oblieged by ſeverall relations of our ſervice and oathes: In caſe We comply not with his Commands, We ate liable to his diſpleaſure, and the loſſe of thoſe places of Honour and Truſt, which We hold under Him: If we obey his Commands without the leave of the Parliament, (which hath not been alwayes granted) We are liable to the cenſure of Parliament; and of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth theſe We want
+<pb n="8" facs="tcp:95025:5"/>
+not freſh examples; So that certainly, this cannot but be acknowledged to be an un<g ref="char:EOLhyphen"/>comfortable condition.</p>
+            <p>I am ſure I bring with me a ready and obedient heart to pay unto the king all thoſe duties of loyalty, allegiance, and obedience which I owe unto him: And I ſhall never be wanting towards the Parliament, to pay unto it all thoſe due Rights, and that obe<g ref="char:EOLhyphen"/>dience which we all owe unto it: But in contrary Commands, a conformity of obedi<g ref="char:EOLhyphen"/>ence to both, is hardly to be lighted on. The Reconciliation muſt be in the comman<g ref="char:EOLhyphen"/>ders, and the Commands, and not in the obedience, or the perſon that is to obey. And therefore untill it ſhall pleaſe God to bleſſe us with a right underſtanding betwixt the King and Parliament, and a conformity in their Commands, neither the Kingdom in publike, nor particular men in private can be reduced to a ſafe or comfortable Condition.</p>
+            <p>I have ſaid thus much to give occaſion to others, to offer likewiſe their opinions: For we ſhall ſit ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, and nothing (tending to the ſtay of the unhappy miſ-underſtand<g ref="char:EOLhyphen"/>ing betwixt the King and his People) be propounded: It is to be feared, That our miſeries will haſten ſo faſt, and opportunity of applying remedies may be paſt.</p>
+            <p>I have herein diſcharged my conſcience, ſutable to that duty which I owe to the King my Soveraigne and Maſter, and ſutable to that zeal and affection, which I ſhall ever pay to the happineſſe and proſperity of the Kingdome, towards which I ſhall ever fully contribute my humble prayers, and honeſt indeavours. And I ſhall no way doubt (whatſoever ſucceſſe this my propoſition may have) it will be accompanied with the good wiſhes of your Lordſhips, and of all peaceable, and well minded men.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>The Copy of a Letter ſent from the Right Honorable the Lord <hi>Paget,</hi> Lord Lieutenant of the County of <hi>Buckingham,</hi> To the Right Honorable the Earl of <hi>Holland;</hi> ſhewing the great readineſſe of that County, to obey the Ordinance of the Parliament touching the <hi>Militia.</hi>
+                  </head>
+                  <p>I Have received ſo great expreſſions of my Country-men of Buckinghamſhire, of their good affections to the Publique, and ready Obedience to the commands of Parliament, in the preſent Maſter this day begun for a fourth part of this County, that I held it my duty to make your Lordſhip acquainted therewith, to the end an ac<g ref="char:EOLhyphen"/>count may be given of it to the Parliament, if your Lordſhip ſhall think fit.</p>
+                  <p>Ten of my Deputie Lieutenants met me this morning at Beckonsfield, where we called over the Traine Band, conſiſting but of one hundred and fifty men, who made a very good appearance, with their Armes and ſupplies, and as full as they have been formerly upon any other ſummons. Beſides theſe, eightſcore Voluntiers and upwards within this Diviſion, preſented themſelves to us very well armed, and exerciſed in two Companies; more in number then the Trained Band, ſummoned to this place I am alſo informed of another Company of an hundred and fifty Volunteries more within this Diviſion, that intend to ſhew themſelves in our way to the next place of meeting, and of another Company of an hundred more, who there intend to meet us, beſides the Trained Band.</p>
+                  <p>This publique teſtimony of my Countrymens good affections, for the ſafety of the King and Kingdome, I thought not unfit to make known. And reſt</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Lordſhips moſt dutifull ſon, and humble ſervant,</hi> WILL: PAGET.</signed>
+                     <dateline>
+                        <hi>Beckonsfield</hi>
+                        <date>23. <hi>May.</hi> 1642.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
